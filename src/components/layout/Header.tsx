@@ -18,7 +18,7 @@ export function Header() {
             className="text-xs hover:text-primary"
           >
             <a
-              href="https://t.me/maiga_ai_bot"
+              href="https://t.me/maigaxbt_bot"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-1"
